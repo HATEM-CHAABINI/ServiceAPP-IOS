@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "481446681832",
+    "firebase_url": "https://chatkodev.firebaseio.com",
+    "project_id": "chatkodev",
+    "storage_bucket": "chatkodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481446681832:android:743c26d78646e799ff7d5d",
+        "android_client_info": {
+          "package_name": "com.example.serviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481446681832-v05ii1flkh9r535uh2m8acjpvqhlds6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.serviceapp",
+            "certificate_hash": "32b417f714a989809e49a17f4850d70df5d21b94"
+          }
+        },
+        {
+          "client_id": "481446681832-sh7397ek9uljhv0o4erpqrorn6ru9umb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Pei3BhY7Q2R4NIocQmzqekMuiCkAgHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481446681832-sh7397ek9uljhv0o4erpqrorn6ru9umb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481446681832-hagrh6qb72boc5rn310c5o6hjfga41nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.webService"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481446681832:android:18f3c3c8110c392aff7d5d",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481446681832-e858tppem51m0m0jk13hk72sj8jghqv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "32b417f714a989809e49a17f4850d70df5d21b94"
+          }
+        },
+        {
+          "client_id": "481446681832-sh7397ek9uljhv0o4erpqrorn6ru9umb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Pei3BhY7Q2R4NIocQmzqekMuiCkAgHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481446681832-sh7397ek9uljhv0o4erpqrorn6ru9umb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481446681832-hagrh6qb72boc5rn310c5o6hjfga41nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.webService"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
